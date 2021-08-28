@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/country-music-final-app/static/css/main.4f04ec4e.chunk.css",
+    "main.js": "/country-music-final-app/static/js/main.7446b8cc.chunk.js",
+    "main.js.map": "/country-music-final-app/static/js/main.7446b8cc.chunk.js.map",
+    "runtime-main.js": "/country-music-final-app/static/js/runtime-main.c12cef2a.js",
+    "runtime-main.js.map": "/country-music-final-app/static/js/runtime-main.c12cef2a.js.map",
+    "static/js/2.21bdcc46.chunk.js": "/country-music-final-app/static/js/2.21bdcc46.chunk.js",
+    "static/js/2.21bdcc46.chunk.js.map": "/country-music-final-app/static/js/2.21bdcc46.chunk.js.map",
+    "index.html": "/country-music-final-app/index.html",
+    "static/css/main.4f04ec4e.chunk.css.map": "/country-music-final-app/static/css/main.4f04ec4e.chunk.css.map",
+    "static/js/2.21bdcc46.chunk.js.LICENSE.txt": "/country-music-final-app/static/js/2.21bdcc46.chunk.js.LICENSE.txt",
+    "static/media/Part-mobile.css": "/country-music-final-app/static/media/Frame84-sm.3f7d6b0f.png",
+    "static/media/Part.css": "/country-music-final-app/static/media/Frame 84.96fbd08e.png",
+    "static/media/about.94c5e9ac.svg": "/country-music-final-app/static/media/about.94c5e9ac.svg",
+    "static/media/abt.96a8aa78.svg": "/country-music-final-app/static/media/abt.96a8aa78.svg",
+    "static/media/ad.bdbe1e4b.svg": "/country-music-final-app/static/media/ad.bdbe1e4b.svg",
+    "static/media/adbottom.d8aa97e7.svg": "/country-music-final-app/static/media/adbottom.d8aa97e7.svg",
+    "static/media/contact.ff2bffc4.svg": "/country-music-final-app/static/media/contact.ff2bffc4.svg",
+    "static/media/intro.404e21e0.svg": "/country-music-final-app/static/media/intro.404e21e0.svg",
+    "static/media/logo.bd032d4d.svg": "/country-music-final-app/static/media/logo.bd032d4d.svg",
+    "static/media/review.b2542be7.svg": "/country-music-final-app/static/media/review.b2542be7.svg",
+    "static/media/subscription.4f410468.svg": "/country-music-final-app/static/media/subscription.4f410468.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c12cef2a.js",
+    "static/js/2.21bdcc46.chunk.js",
+    "static/css/main.4f04ec4e.chunk.css",
+    "static/js/main.7446b8cc.chunk.js"
+  ]
+}
